@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shower Time</string>
+    <string name="st_menu_title">Shower Time Advanced</string>
+    <string name="st_interval_label">Vibrate Every:</string>
+    <string name="st_pebble_btn_str">Send to Pebble</string>
+    <string name="st_timesep_str">:</string>
+    <string name="st_period_label">For:</string>
+    <string name="st_add_btn_str">Add Timer</string>
+    <string name="st_consec_timer_toggle_label">Consecutive Timer</string>
+    <string name="st_reset_timers_btn_str">Clear Timers\nList</string>
+    <string name="st_remove_timer_btn_str">Remove Timer</string>
+    <string name="st_timers_lv_desc">Timers List</string>
+    <string name="st_repeat_cb_label_txt">Repeat Timers</string>
+</resources>
